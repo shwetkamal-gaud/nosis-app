@@ -1,9 +1,16 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
+Clone the repository 
+```bash
+https://github.com/shwetkamal-gaud/nosis-app/
+```
+Install the dependencies
+```bash
+npm install
+```
 
-First, run the development server:
-
+Run the development server:
 ```bash
 npm run dev
 # or
