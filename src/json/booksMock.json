@@ -1,0 +1,45 @@
+[
+    {
+        "id": "book1",
+        "title": "The Culture Code: The Secrets Of Highly Successful Groups",
+        "author": "Daniel Coyle",
+        "duration": "5 parts · 17 mins",
+        "image": "/books/culture-code.jpg"
+    },
+    {
+        "id": "book2",
+        "title": "What I Talk About When I Talk About Running",
+        "author": "Haruki Murakami",
+        "duration": "3 parts · 12 mins",
+        "image": "/books/running.jpg"
+    },
+    {
+        "id": "book3",
+        "title": "Men's Search for Meaning",
+        "author": "Viktor E. Frankl",
+        "duration": "6 parts · 25 mins",
+        "image": "/books/meaning.jpg"
+    },
+    {
+        "id": "book4",
+        "title": "12 Rules for Life: An Antidote to Chaos",
+        "author": "Jordan Peterson",
+        "duration": "5 parts · 15 mins",
+        "image": "/books/rules-life.jpg"
+    },
+    {
+        "id": "book5",
+        "title": "The Blue Zones Solution: Eating and Living Like the World's Healthiest People By Dan Buettner",
+        "author": "Dan Buettner",
+        "duration": "5 parts · 0 mins",
+        "image": "/books/zones-solution.jpg"
+    },
+    {
+        "id": "book6",
+        "title": "Dare to Lead",
+        "author": "Brené Brown",
+        "duration": "5 Parts · 0 mins",
+        "image": "/books/dare.jpg"
+    }
+    
+]

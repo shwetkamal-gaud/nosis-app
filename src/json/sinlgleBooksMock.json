@@ -1,0 +1,212 @@
+[
+    {
+        "id": "book1",
+        "title": "The Culture Code: The Secrets Of Highly Successful Groups",
+        "author": "Daniel Coyle",
+        "duration": "5 parts · 17 mins",
+        "image": "/books/culture-code.jpg",
+        "tags":[
+            "Philosophy",
+            "Psychology"
+        ],
+        "preface": "Daniel Coyle's The Culture Code is a profound exploration of human resilience and the quest for purpose, selling over **16 million copies** worldwide. First published in 1946 in German and later in English in 1959, the book chronicles Frankl’s experiences in Naz",
+        "chapters": [
+            {
+                "part": "Part I",
+                "title": "Introduction"
+            },
+            {
+                "part": "Part II",
+                "title": "The Psychology of Camp Life"
+            },
+            {
+                "part": "Part III",
+                "title": "The Will to Meaning"
+            },
+            {
+                "part": "Part IV",
+                "title": "Suffering and Human Potential"
+            },
+            {
+                "part": "Part V",
+                "title": "Conclusion – Meaning as the Ultimate Human Achievement"
+            }
+        ],
+        "aboutAuthor": "Daniel Coyle (1905–1997) was an Austrian psychiatrist, neurologist, and Holocaust survivor best known for his groundbreaking work in existential psychology. His most influential book, *Man’s Search for Meaning*, explores his experiences in Nazi concentration camps and introduces **logotherapy**, a therapeutic approach centered on finding purpose in life. Frankl believed that meaning could be discovered through work, love, and suffering. His insights continue to inspire those seeking resilience and personal growth. A pioneer in humanistic psychology, Frankl’s legacy endures in fields like psychotherapy, philosophy, and self- development, emphasizing the power of purpose in overcoming adversity."
+    },
+    {
+        "id": "book2",
+        "title": "What I Talk About When I Talk About Running",
+        "author": "Haruki Murakami",
+        "duration": "3 parts · 12 mins",
+        "image": "/books/running.jpg",
+        "tags": [
+            "Philosophy",
+            "Psychology"
+        ],
+        "preface": "Haruki Murakami's What I Talk About When I Talk About Running  is a profound exploration of human resilience and the quest for purpose, selling over **16 million copies** worldwide. First published in 1946 in German and later in English in 1959, the book chronicles Frankl’s experiences in Naz",
+        "chapters": [
+            {
+                "part": "Part I",
+                "title": "Introduction"
+            },
+            {
+                "part": "Part II",
+                "title": "The Psychology of Camp Life"
+            },
+            {
+                "part": "Part III",
+                "title": "The Will to Meaning"
+            },
+            {
+                "part": "Part IV",
+                "title": "Suffering and Human Potential"
+            },
+            {
+                "part": "Part V",
+                "title": "Conclusion – Meaning as the Ultimate Human Achievement"
+            }
+        ],
+        "aboutAuthor": "Haruki Murakami (1905–1997) was an Austrian psychiatrist, neurologist, and Holocaust survivor best known for his groundbreaking work in existential psychology. His most influential book, *Man’s Search for Meaning*, explores his experiences in Nazi concentration camps and introduces **logotherapy**, a therapeutic approach centered on finding purpose in life. Frankl believed that meaning could be discovered through work, love, and suffering. His insights continue to inspire those seeking resilience and personal growth. A pioneer in humanistic psychology, Frankl’s legacy endures in fields like psychotherapy, philosophy, and self- development, emphasizing the power of purpose in overcoming adversity."
+    },
+    {
+        "id": "book3",
+        "title": "Men's Search for Meaning",
+        "author": "Viktor E. Frankl",
+        "duration": "6 parts · 25 mins",
+        "image": "/books/meaning.jpg",
+        "tags": [
+            "Philosophy",
+            "Psychology"
+        ],
+        "preface": "Viktor E. Frankl's Men's Search for Meaning is a profound exploration of human resilience and the quest for purpose, selling over **16 million copies** worldwide. First published in 1946 in German and later in English in 1959, the book chronicles Frankl’s experiences in Naz",
+        "chapters": [
+            {
+                "part": "Part I",
+                "title": "Introduction"
+            },
+            {
+                "part": "Part II",
+                "title": "The Psychology of Camp Life"
+            },
+            {
+                "part": "Part III",
+                "title": "The Will to Meaning"
+            },
+            {
+                "part": "Part IV",
+                "title": "Suffering and Human Potential"
+            },
+            {
+                "part": "Part V",
+                "title": "Conclusion – Meaning as the Ultimate Human Achievement"
+            }
+        ],
+        "aboutAuthor": "Viktor E. Frankl's (1905–1997) was an Austrian psychiatrist, neurologist, and Holocaust survivor best known for his groundbreaking work in existential psychology. His most influential book, *Man’s Search for Meaning*, explores his experiences in Nazi concentration camps and introduces **logotherapy**, a therapeutic approach centered on finding purpose in life. Frankl believed that meaning could be discovered through work, love, and suffering. His insights continue to inspire those seeking resilience and personal growth. A pioneer in humanistic psychology, Frankl’s legacy endures in fields like psychotherapy, philosophy, and self- development, emphasizing the power of purpose in overcoming adversity."
+    },
+    {
+        "id": "book4",
+        "title": "12 Rules for Life: An Antidote to Chaos",
+        "author": "Jordan Peterson",
+        "duration": "5 parts · 15 mins",
+        "image": "/books/rules-life.jpg",
+        "tags": [
+            "Philosophy",
+            "Psychology"
+        ],
+        "preface": "Jordan Peterson's 12 Rules for Life: An Antidote to Chaos is a profound exploration of human resilience and the quest for purpose, selling over **16 million copies** worldwide. First published in 1946 in German and later in English in 1959, the book chronicles Frankl’s experiences in Naz",
+        "chapters": [
+            {
+                "part": "Part I",
+                "title": "Introduction"
+            },
+            {
+                "part": "Part II",
+                "title": "The Psychology of Camp Life"
+            },
+            {
+                "part": "Part III",
+                "title": "The Will to Meaning"
+            },
+            {
+                "part": "Part IV",
+                "title": "Suffering and Human Potential"
+            },
+            {
+                "part": "Part V",
+                "title": "Conclusion – Meaning as the Ultimate Human Achievement"
+            }
+        ],
+        "aboutAuthor": "Jordan Peterson's (1905–1997) was an Austrian psychiatrist, neurologist, and Holocaust survivor best known for his groundbreaking work in existential psychology. His most influential book, *Man’s Search for Meaning*, explores his experiences in Nazi concentration camps and introduces **logotherapy**, a therapeutic approach centered on finding purpose in life. Frankl believed that meaning could be discovered through work, love, and suffering. His insights continue to inspire those seeking resilience and personal growth. A pioneer in humanistic psychology, Frankl’s legacy endures in fields like psychotherapy, philosophy, and self- development, emphasizing the power of purpose in overcoming adversity."
+    },
+    {
+        "id": "book5",
+        "title": "The Blue Zones Solution: Eating and Living Like the World's Healthiest People By Dan Buettner",
+        "author": "Dan Buettner",
+        "duration": "5 parts · 0 mins",
+        "image": "/books/zones-solution.jpg",
+        "tags": [
+            "Philosophy",
+            "Psychology"
+        ],
+        "preface": "Dan Buettner's The Blue Zones Solution is a profound exploration of human resilience and the quest for purpose, selling over **16 million copies** worldwide. First published in 1946 in German and later in English in 1959, the book chronicles Frankl’s experiences in Naz",
+        "chapters": [
+            {
+                "part": "Part I",
+                "title": "Introduction"
+            },
+            {
+                "part": "Part II",
+                "title": "The Psychology of Camp Life"
+            },
+            {
+                "part": "Part III",
+                "title": "The Will to Meaning"
+            },
+            {
+                "part": "Part IV",
+                "title": "Suffering and Human Potential"
+            },
+            {
+                "part": "Part V",
+                "title": "Conclusion – Meaning as the Ultimate Human Achievement"
+            }
+        ],
+        "aboutAuthor": "Dan Buettner's (1905–1997) was an Austrian psychiatrist, neurologist, and Holocaust survivor best known for his groundbreaking work in existential psychology. His most influential book, *Man’s Search for Meaning*, explores his experiences in Nazi concentration camps and introduces **logotherapy**, a therapeutic approach centered on finding purpose in life. Frankl believed that meaning could be discovered through work, love, and suffering. His insights continue to inspire those seeking resilience and personal growth. A pioneer in humanistic psychology, Frankl’s legacy endures in fields like psychotherapy, philosophy, and self- development, emphasizing the power of purpose in overcoming adversity."
+    },
+    {
+        "id": "book6",
+        "title": "Dare to Lead",
+        "author": "Brené Brown",
+        "duration": "5 Parts · 0 mins",
+        "image": "/books/dare.jpg",
+        "tags": [
+            "Philosophy",
+            "Psychology"
+        ],
+        "preface": "Brené Brown's Dare to Lead is a profound exploration of human resilience and the quest for purpose, selling over **16 million copies** worldwide. First published in 1946 in German and later in English in 1959, the book chronicles Frankl’s experiences in Naz",
+        "chapters": [
+            {
+                "part": "Part I",
+                "title": "Introduction"
+            },
+            {
+                "part": "Part II",
+                "title": "The Psychology of Camp Life"
+            },
+            {
+                "part": "Part III",
+                "title": "The Will to Meaning"
+            },
+            {
+                "part": "Part IV",
+                "title": "Suffering and Human Potential"
+            },
+            {
+                "part": "Part V",
+                "title": "Conclusion – Meaning as the Ultimate Human Achievement"
+            }
+        ],
+        "aboutAuthor": "Brené Brown's (1905–1997) was an Austrian psychiatrist, neurologist, and Holocaust survivor best known for his groundbreaking work in existential psychology. His most influential book, *Man’s Search for Meaning*, explores his experiences in Nazi concentration camps and introduces **logotherapy**, a therapeutic approach centered on finding purpose in life. Frankl believed that meaning could be discovered through work, love, and suffering. His insights continue to inspire those seeking resilience and personal growth. A pioneer in humanistic psychology, Frankl’s legacy endures in fields like psychotherapy, philosophy, and self- development, emphasizing the power of purpose in overcoming adversity."
+    }
+]
