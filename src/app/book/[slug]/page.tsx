@@ -10,6 +10,7 @@ import { AlertCircle, Book, Bookmark, ChevronDown, ChevronLast, MoreHorizontal, 
 import HelpingHand from '../../../../public/SVG/HelpingHand';
 import Share from '../../../../public/SVG/Share';
 import { useRouter } from 'next/navigation';
+import MobileBackground from '../../../../public/SVG/MoileBackground';
 
 const BookPage = ({ params }: { params: { slug: string } }) => {
     const { slug } = params
@@ -50,7 +51,7 @@ const BookPage = ({ params }: { params: { slug: string } }) => {
                     transition={{ delay: 0.2 }}
                 >
                     <motion.div className='flex justify-between'>
-                        <motion.button onClick={()=> router.back()}  className='bg-white rounded text-[14px] text-[#737373] py-[8x] px-[16px]'>
+                        <motion.button onClick={() => router.back()} className='bg-white rounded text-[14px] text-[#737373] py-[8x] px-[16px]'>
                             {"<"} Back
                         </motion.button>
                         <div className="relative inline-block text-left" ref={dropdownRef}>
@@ -91,20 +92,26 @@ const BookPage = ({ params }: { params: { slug: string } }) => {
                             </AnimatePresence>
                         </div>
                     </motion.div>
-                    <div className='flex flex-col md:flex-row gap-6'>
-                        <Image
-                            src={book.image}
-                            alt={book.title}
-                            width={150}
-                            height={220}
-                            className="rounded-lg object-cover"
-                        />
-                        <div className="flex-1">
+                    <div className='flex relative flex-col items-center justify-center md:flex-row gap-6'>
+                       
+                            <Image
+                                src={book.image}
+                                alt={book.title}
+                                width={150}
+                                height={220}
+                                className="rounded-lg object-cover z-10"
+                            />
+                            <div className='sm:hidden inline-block top-0 left-0 absolute z-5'>
+                                <MobileBackground/>
+                            </div>
+                        
+
+                        <div className="flex-1 sm:text-start text-center">
                             <h1 className="text-2xl font-semibold">{book.title}</h1>
                             <p className="text-gray-600">{book.author}</p>
                             <p className="text-sm text-gray-500 mt-1">{book.duration}</p>
 
-                            <div className="flex flex-wrap gap-2 mt-3">
+                            <div className="flex flex-wrap md:justify-start justify-center gap-2 mt-3">
                                 {book.tags.map((tag, i) => (
                                     <span
                                         key={i}
@@ -120,7 +127,7 @@ const BookPage = ({ params }: { params: { slug: string } }) => {
                                     whileHover={{ scale: 1.05 }}
                                     className="bg-[#0a0a0a] text-[15x] flex items-center gap-[8px] text-white px-4 py-2 rounded-xl"
                                 >
-                                   <Book className='w-[15px] h-[15px]'/> Read
+                                    <Book className='w-[15px] h-[15px]' /> Read
                                 </motion.button>
                                 <motion.button
                                     whileHover={{ scale: 1.05 }}
@@ -130,13 +137,13 @@ const BookPage = ({ params }: { params: { slug: string } }) => {
                                 </motion.button>
                             </div>
                         </div>
-                        <div className='absolute right-4 -bottom-0'>
+                        <div className='hidden sm:inline-bloclk absolute right-4 md:-bottom-0 slef-center '>
                             <Background color='#D4B39C2E' />
                         </div>
                     </div>
                 </motion.div>
 
-                <motion.div className=' p-6'
+                <motion.div className=' p-6 flex flex-col'
                     initial={{ opacity: 0, y: 20 }}
                     animate={{ opacity: 1, y: 0 }}
                     transition={{ delay: 0.3 }}
@@ -144,8 +151,8 @@ const BookPage = ({ params }: { params: { slug: string } }) => {
                     <h2 className="text-lg  font-semibold mb-2">Preface</h2>
                     <p className="text-gray-700">{book.preface}</p>
 
-                    <button className='px-[16px] py-[8px] text-[#01383D] flex gap-[8px] items-center'>See more
-                        <ChevronDown className='w-[18px] h-[18px] text-[#01383D]'/>
+                    <button className='px-[16px] py-[8px] md:justify-start justify-end text-[#01383D] flex gap-[8px] items-center'>See more
+                        <ChevronDown className='w-[18px] h-[18px] text-[#01383D]' />
                     </button>
                 </motion.div>
 
@@ -192,7 +199,7 @@ const BookPage = ({ params }: { params: { slug: string } }) => {
                         whileHover={{ scale: 1.05 }}
                         className="border text-[15x] border-[#01383D33] shadow bg-white flex items-center gap-[8px] text-black px-4 py-2 rounded-xl"
                     ><Bookmark className='w-[15px] h-[20px]' />
-                        
+
                     </motion.button>
                     <motion.button
                         whileHover={{ scale: 1.05 }}
@@ -201,7 +208,7 @@ const BookPage = ({ params }: { params: { slug: string } }) => {
                         <Book className='w-[15px] h-[15px]' /> Start Reading
                     </motion.button>
                 </div>
-                
+
             </motion.div>
         </>
     )
